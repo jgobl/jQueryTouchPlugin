@@ -1,7 +1,7 @@
 jQueryTouchPlugin
 =================
 
-A pluging for drag and drop on touch enabled devices.
+A plugin for drag and drop on touch enabled devices.
 
 Example usage.  
 
